@@ -1,2 +1,2 @@
 # TCP-Connect-Tool
-base on QT
+base on QT 5.6.1
